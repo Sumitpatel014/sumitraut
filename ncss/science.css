@@ -1,0 +1,54 @@
+.head
+{
+color: rgb(0, 20, 100);
+font-size: 50px;
+font-style: inherit;
+text-shadow: 30px;
+lighting-color: aqua;
+box-shadow: inset;
+}
+body
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../image/rk.jpg");
+
+    background-blend-mode: color-burn;
+    background-size: cover;
+}
+.phy
+{
+    width: 250px;
+    text-align: center;
+    color:#0ff;
+    font-size:30px;
+    margin-left:10px;
+    margin-top:10px;
+    border: 3px solid #0ff;
+    border-radius: 100px;
+    padding:0.5rem 1rem;
+    cursor : pointer;
+    background: peachpuff;
+    text-shadow: 0 0 4px #0ff,0 0 3px #15f4ee;
+    font-style: normal;
+}
+.table
+{
+    border-radius: 10px;
+    border-color: #15f4ee;
+    color: rgb(48, 49, 49);
+    background-color: darkorange;
+}
+
+    box-shadow: 0 0 21px #0ff inset, 0 0 50px #0ff;
+}
+.link
+{
+    color: #0ff;
+}
+.py
+{
+color: paleturquoise;
+font-style: oblique;
+}
+
+
+
